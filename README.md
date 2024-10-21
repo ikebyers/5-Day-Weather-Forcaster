@@ -12,6 +12,9 @@
 ## Description
 BreezeAhead is a weather forecasting application that allows you to search for any city and view both the current weather and a 5-day forecast. The app provides a structured display of city-specific weather information, including details about temperature, conditions, and more.
 
+## Deployed URL
+https://breezeahead.onrender.com/
+
 ## Features
     •	Search any city and get the current weather details.
     •	5-day weather forecast with detailed daily breakdowns.
